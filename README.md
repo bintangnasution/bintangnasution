@@ -8,6 +8,6 @@ I started my interest in programming when I was in junior high school, after tha
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [sumbercodeku@gmail.com](mailto:sumbercodeku@gmail.com)
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning Kotlin
 * ⚡  I actually can fly, but I'm afraid the people around me will be shocked
 
