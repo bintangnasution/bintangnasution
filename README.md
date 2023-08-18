@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="pics/header.png">
+	<img src="pics/header.jpg">
 </p>
 
 ## Hi there 👋 Welcome to my GitHub!
