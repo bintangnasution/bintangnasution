@@ -1,13 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bintang Nasution
-========================================================================================================================================
+<p align="center">
+	<img src="pics/header.png">
+</p>
 
-Junior Web Developers
----------------------
+## Hi there 👋 Welcome to my GitHub!
 
-I started my interest in programming when I was in junior high school, after that I majored in software engineering in 2018, in the first year I studied the vb.net programming base , in the second year I learned PHP to PHP frameworks, in the third year I started to focus on dynamic development like javascript, until now I chose to learn with node.js
+![Twitter Follow](https://img.shields.io/twitter/follow/furnwboyfriend?style=social)
+[![Linkedin: Bintang Nasution](https://img.shields.io/badge/-Bintang%20Nasution-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://id.linkedin.com/in/bintang-nasution-8487ba1b7)](https://id.linkedin.com/in/bintang-nasution-8487ba1b7)
+![Profile Views](https://komarev.com/ghpvc/?username=bintangnasution&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bintangnasutionnn_/)
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [sumbercodeku@gmail.com](mailto:sumbercodeku@gmail.com)
-* 🧠  I'm learning Kotlin
-* ⚡  I actually can fly, but I'm afraid the people around me will be shocked
+## 👨🏻‍💻 &nbsp;About Me
 
+<p>👋 &nbsp;Hi there! I'm Bintang, a Mobile Developer are currently self-taught at Bangkit Academy</p>
+<p>🔍 &nbsp;I'm actively seeking roles as a Android Developer or Software Developer</p>
+<p>🚀 &nbsp;My technical skills include C++, Java, Javascript, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
+<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
+
+## 🛠 &nbsp;Tech Stack
+- **Programming Languages:** Java, Kotlin
+- **Mobile Development:** ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android&logoColor=white), ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **UI/UX Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- **Backend Integration:** RESTful APIs
+- **Database:** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white), ![Firebase Firestore](https://img.shields.io/badge/-Firebase%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- **Continuous Integration:** ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- **Versioning:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📈 Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bintangnasution&show_icons=true&count_private=true&hide=contribs&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangnasution&layout=compact&theme=dark)](https://github.com/bintangnasution)
+
+## 📕 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bintangnasution&repo=kalkulator-sederhana-7.0&theme=dark)](https://github.com/bintangnasution/kalkulator-sederhana-7.0)
+
+Image by <a href="https://www.freepik.com/free-photo/online-school-equipment-home_16392735.htm#query=computer%20table&position=2&from_view=search&track=ais">Freepik</a>
