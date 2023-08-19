@@ -4,7 +4,6 @@
 
 ## Hi there 👋 Welcome to my GitHub!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/furnwboyfriend?style=social)
 [![Linkedin: Bintang Nasution](https://img.shields.io/badge/-Bintang%20Nasution-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://id.linkedin.com/in/bintang-nasution-8487ba1b7)](https://id.linkedin.com/in/bintang-nasution-8487ba1b7)
 ![Profile Views](https://komarev.com/ghpvc/?username=bintangnasution&color=blueviolet&style=flat-square&label=Profile+Views)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bintangnasutionnn_/)
