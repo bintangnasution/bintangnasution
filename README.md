@@ -17,11 +17,10 @@
 
 ## 🛠 &nbsp;Tech Stack
 - **Programming Languages:** Java, Kotlin
-- **Mobile Development:** ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android&logoColor=white), ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Mobile Development:** ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android&logoColor=white)
 - **UI/UX Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 - **Backend Integration:** RESTful APIs
-- **Database:** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white), ![Firebase Firestore](https://img.shields.io/badge/-Firebase%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- **Database:** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 - **Continuous Integration:** ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 - **Versioning:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
