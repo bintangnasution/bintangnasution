@@ -29,6 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangnasution&layout=compact&theme=dark)](https://github.com/bintangnasution)
 
 ## 📕 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bintangnasution&repo=kalkulator-sederhana-7.0&theme=dark)](https://github.com/bintangnasution/kalkulator-sederhana-7.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bintangnasution&repo=stayawake&theme=dark)](https://github.com/bintangnasution/stayawake)
 
 Image by <a href="https://www.freepik.com/free-photo/online-school-equipment-home_16392735.htm#query=computer%20table&position=2&from_view=search&track=ais">Freepik</a>
