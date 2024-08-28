@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p>👋 &nbsp;Hi there! I'm Bintang, a Mobile Developer are currently self-taught at Bangkit Academy</p>
+<p>👋 &nbsp;Hi there! I'm Bintang, a Backend Developer currently interning at Intersolusi Cipta Softindo.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a Android Developer or Software Developer</p>
 <p>🚀 &nbsp;My technical skills include C++, Java, Javascript, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
